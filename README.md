@@ -1,4 +1,4 @@
-# Bot_parser_for_university_applicants
+# Telegram Bot parser for university applicants
 
 Telegram bot based on the [old parser](https://github.com/mrmda28/Parser_for_university_applicants).
 
